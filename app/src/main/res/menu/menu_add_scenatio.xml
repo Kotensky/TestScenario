@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/actionAccept"
+        android:icon="@drawable/ic_accept_white"
+        android:title="@string/option_accept"
+        app:showAsAction="ifRoom" />
+</menu>

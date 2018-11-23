@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Scenario</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_title">Scenarios</string>
+    <string name="activity_add_scenario_title">Add scenario</string>
+
+    <string name="name_edt_hint">Enter name of scenario</string>
+    <string name="temperature_template">%d°</string>
+    <string name="from">from: </string>
+    <string name="to">to: </string>
+    <string name="temperature">C°:</string>
+    <string name="set_value">Set value</string>
+    <string name="option_accept">Accept</string>
+    <string name="name_empty_error">Name can\'t be empty</string>
+</resources>
